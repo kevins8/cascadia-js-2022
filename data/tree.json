@@ -1,0 +1,279 @@
+{
+  "roots": [
+    {
+      "key": "7ifn0jqm45dvq2e5wc6xjo2",
+      "title": "CascadiaJS 2022 Notes",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cascadia-js-2022",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "x84sn91kbhdc7wwc58m3ho0",
+          "title": "Contributing",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "lqwv7e0y39yfgymvysmgiv5",
+          "title": "Raffle",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "qwdt0khxbevqlbrp67nay4w",
+      "title": "Talks",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cascadia-js-2022",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "saimon-sharif",
+          "title": "A Few Good Design Patterns",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "mikeal-rogers",
+          "title": "Bringing Web3 to the Web",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "dwane-hemmings",
+          "title": "Creating a WebXR Tic-Tac-Toe game with Voice Chat on the Code of Giants",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "eddie-zaneski",
+          "title": "Cryptography Isn't Scary",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "tejas-kumar",
+          "title": "Doing Data as a Frontend Developer",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "brian-leroux",
+          "title": "Enhance your Functional Web Apps with Web Components",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "daphne-liu",
+          "title": "How We Automated our Relationship",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "tiger-oakes",
+          "title": "How We Automated our Relationship",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "zo5oj0kxjm5dk525y280c64",
+          "title": "Ian Sutherland Zero Dependency Clis with Node",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "ian-sutherland",
+              "title": "Zero-dependency CLIs with Node.js",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "cascadia-js-2022",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "vladimir-de-turckheim",
+          "title": "Join the super secret V8 club and become a JavaScriptbender",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "rebecca-peltz",
+          "title": "Learning and Managing Code with Code Notebooks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "brittany-joiner",
+          "title": "Making tech careers accessible for everyone",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "shawn-swyx-wang",
+          "title": "Paradigm Lost",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "trivikram-kamat",
+          "title": "Publishing in the JavaScript Ecosystem & Keeping Users Happy",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "joyce-park",
+          "title": "Rethinking Web UX with Webauthn and Project Fugu",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "joyce-lin",
+          "title": "Reverse Engineering a Private API",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "rachel-white",
+          "title": "The 90s Called and They Want Their Websites Back",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "brooklyn-zelenka",
+          "title": "The Dark Forest: Private CRDTs as Global Database",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "aaroh-mankad",
+          "title": "The Next Generation of Tech is on Tiktok",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "isabela-moreira",
+          "title": "The Startup's Guide to Creating a Design System",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "chris-coyier",
+          "title": "The Web is Good Now",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "ian-sutherland",
+          "title": "Zero-dependency CLIs with Node.js",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cascadia-js-2022",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "qwdt0khxbevqlbrp67nay4w": null,
+    "zo5oj0kxjm5dk525y280c64": "qwdt0khxbevqlbrp67nay4w",
+    "ian-sutherland": "zo5oj0kxjm5dk525y280c64",
+    "vladimir-de-turckheim": "qwdt0khxbevqlbrp67nay4w",
+    "trivikram-kamat": "qwdt0khxbevqlbrp67nay4w",
+    "tiger-oakes": "qwdt0khxbevqlbrp67nay4w",
+    "tejas-kumar": "qwdt0khxbevqlbrp67nay4w",
+    "shawn-swyx-wang": "qwdt0khxbevqlbrp67nay4w",
+    "saimon-sharif": "qwdt0khxbevqlbrp67nay4w",
+    "rebecca-peltz": "qwdt0khxbevqlbrp67nay4w",
+    "rachel-white": "qwdt0khxbevqlbrp67nay4w",
+    "mikeal-rogers": "qwdt0khxbevqlbrp67nay4w",
+    "joyce-park": "qwdt0khxbevqlbrp67nay4w",
+    "joyce-lin": "qwdt0khxbevqlbrp67nay4w",
+    "isabela-moreira": "qwdt0khxbevqlbrp67nay4w",
+    "eddie-zaneski": "qwdt0khxbevqlbrp67nay4w",
+    "dwane-hemmings": "qwdt0khxbevqlbrp67nay4w",
+    "daphne-liu": "qwdt0khxbevqlbrp67nay4w",
+    "chris-coyier": "qwdt0khxbevqlbrp67nay4w",
+    "brooklyn-zelenka": "qwdt0khxbevqlbrp67nay4w",
+    "brittany-joiner": "qwdt0khxbevqlbrp67nay4w",
+    "brian-leroux": "qwdt0khxbevqlbrp67nay4w",
+    "aaroh-mankad": "qwdt0khxbevqlbrp67nay4w",
+    "7ifn0jqm45dvq2e5wc6xjo2": null,
+    "lqwv7e0y39yfgymvysmgiv5": "7ifn0jqm45dvq2e5wc6xjo2",
+    "x84sn91kbhdc7wwc58m3ho0": "7ifn0jqm45dvq2e5wc6xjo2"
+  }
+}
